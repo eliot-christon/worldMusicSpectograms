@@ -204,18 +204,7 @@ def signal_to_mp3(audio_signal:np.ndarray, sr:int, audio_file_path:str, display:
         print("    - Sampling rate:", sr)
         print("  - Saving audio signal to mp3 file...")
         
-    # format audio signal to 16-bit int
-    
-    print(audio_signal.shape)
-    print(audio_signal.dtype)
-    print(audio_signal.max())
-    print(audio_signal.min())
-    print(audio_signal[-1000])
-        
-    print(audio_signal.shape)
-    print(audio_signal.dtype)
-    
-
+    # format audio signal to 16-bit int    
     sf.write(audio_file_path, audio_signal, sr)
     
     if display: print("## end signal_to_mp3()")
