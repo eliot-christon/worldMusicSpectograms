@@ -1,175 +1,474 @@
 ,min_spectro_db,max_spectro_db,filename
-0,-37.97496,42.02504,a-night-in-tunisia.mp3
-1,-36.699085,43.300915,a-night-in-tunisia.mp3
-2,-30.505333,49.494667,a-night-in-tunisia.mp3
-3,-33.62513,46.37487,a-night-in-tunisia.mp3
-4,-32.81571,47.18429,a-night-in-tunisia.mp3
-5,-32.386566,47.613434,a-night-in-tunisia.mp3
-6,-29.98003,50.01997,a-night-in-tunisia.mp3
-7,-32.568035,47.431965,a-night-in-tunisia.mp3
-8,-37.05482,42.94518,a-night-in-tunisia.mp3
-9,-35.894814,44.105186,a-night-in-tunisia.mp3
-10,-35.973927,44.026073,a-night-in-tunisia.mp3
-11,-32.548706,47.451294,a-night-in-tunisia.mp3
-12,-33.84011,46.15989,a-night-in-tunisia.mp3
-13,-32.43681,47.56319,a-night-in-tunisia.mp3
-14,-33.160736,46.839264,a-night-in-tunisia.mp3
-15,-30.842094,49.157906,a-night-in-tunisia.mp3
-16,-33.12929,46.87071,a-night-in-tunisia.mp3
-17,-30.464722,49.53528,a-night-in-tunisia.mp3
-18,-35.547104,44.452896,a-night-in-tunisia.mp3
-19,-36.264362,43.735638,a-night-in-tunisia.mp3
-20,-34.68831,45.31169,a-night-in-tunisia.mp3
-21,-33.172028,46.827972,arnau-griso-es-gratis-acustico.mp3
-22,-33.017952,46.982048,arnau-griso-es-gratis-acustico.mp3
-23,-32.312416,47.687584,arnau-griso-es-gratis-acustico.mp3
-24,-33.366714,46.633286,arnau-griso-es-gratis-acustico.mp3
-25,-33.642372,46.357628,arnau-griso-es-gratis-acustico.mp3
-26,-32.33423,47.66577,arnau-griso-es-gratis-acustico.mp3
-27,-32.06347,47.93653,arnau-griso-es-gratis-acustico.mp3
-28,-34.278965,45.721035,arnau-griso-es-gratis-acustico.mp3
-29,-33.553833,46.446167,arnau-griso-es-gratis-acustico.mp3
-30,-33.70873,46.29127,arnau-griso-es-gratis-acustico.mp3
-31,-33.02198,46.97802,arnau-griso-es-gratis-acustico.mp3
-32,-33.32521,46.67479,arnau-griso-es-gratis-acustico.mp3
-33,-32.23791,47.76209,arnau-griso-es-gratis-acustico.mp3
-34,-31.954521,48.04548,arnau-griso-es-gratis-acustico.mp3
-35,-31.82885,48.17115,arnau-griso-es-gratis-acustico.mp3
-36,-33.239407,46.760593,arnau-griso-es-gratis-acustico.mp3
-37,-31.905384,48.094616,arnau-griso-es-gratis-acustico.mp3
-38,-32.024086,47.975914,arnau-griso-es-gratis-acustico.mp3
-39,-30.287762,49.71224,arnau-griso-es-gratis-acustico.mp3
-40,-35.204483,44.795517,arnau-griso-es-gratis-acustico.mp3
-41,-31.591839,48.40816,arnau-griso-es-gratis-acustico.mp3
-42,-36.507835,43.492165,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-43,-38.52366,41.47634,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-44,-36.63735,43.36265,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-45,-34.44441,45.55559,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-46,-35.113922,44.886078,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-47,-38.89112,41.10888,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-48,-35.64582,44.35418,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-49,-35.025497,44.974503,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-50,-34.693127,45.306873,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-51,-36.281555,43.718445,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-52,-35.970345,44.029655,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-53,-35.4179,44.5821,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-54,-33.234932,46.765068,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-55,-34.384857,45.615143,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-56,-34.92136,45.07864,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-57,-36.40245,43.59755,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-58,-35.40527,44.59473,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-59,-35.94594,44.05406,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-60,-39.066433,40.933567,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-61,-35.715485,44.284515,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-62,-100.0,-100.0,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-63,-100.0,-100.0,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-64,-100.0,-100.0,Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3
-65,-45.677387,34.322613,Norah Jones - Summertime.mp3
-66,-39.567684,40.432316,Norah Jones - Summertime.mp3
-67,-37.695297,42.304703,Norah Jones - Summertime.mp3
-68,-36.97401,43.02599,Norah Jones - Summertime.mp3
-69,-40.38881,39.61119,Norah Jones - Summertime.mp3
-70,-37.179928,42.820072,Norah Jones - Summertime.mp3
-71,-35.814823,44.185177,Norah Jones - Summertime.mp3
-72,-35.764153,44.235847,Norah Jones - Summertime.mp3
-73,-38.766487,41.233513,Norah Jones - Summertime.mp3
-74,-43.449127,36.550873,Norah Jones - Summertime.mp3
-75,-36.883472,43.116528,Norah Jones - Summertime.mp3
-76,-42.04966,37.95034,Norah Jones - Summertime.mp3
-77,-42.421173,37.578827,Norah Jones - Summertime.mp3
-78,-37.918945,42.081055,Norah Jones - Summertime.mp3
-79,-39.54152,40.45848,Norah Jones - Summertime.mp3
-80,-40.57831,39.42169,Norah Jones - Summertime.mp3
-81,-39.150524,40.849476,Norah Jones - Summertime.mp3
-82,-39.869267,40.130733,Norah Jones - Summertime.mp3
-83,-39.912334,40.087666,Norah Jones - Summertime.mp3
-84,-40.20309,39.79691,Norah Jones - Summertime.mp3
-85,-40.04146,39.95854,Norah Jones - Summertime.mp3
-86,-42.42745,37.57255,Norah Jones - Summertime.mp3
-87,-34.325886,45.674114,Norah Jones - Summertime.mp3
-88,-35.575275,44.424725,Norah Jones - Summertime.mp3
-89,-36.69509,43.30491,Norah Jones - Summertime.mp3
-90,-40.70046,39.29954,Norah Jones - Summertime.mp3
-91,-39.21415,40.78585,Norah Jones - Summertime.mp3
-92,-35.959877,44.040123,Norah Jones - Summertime.mp3
-93,-41.47099,38.52901,Norah Jones - Summertime.mp3
-94,-41.757336,38.242664,Norah Jones - Summertime.mp3
-95,-37.056816,42.943184,Punk Jazz Revisited.mp3
-96,-36.44223,43.55777,Punk Jazz Revisited.mp3
-97,-33.240967,46.759033,Punk Jazz Revisited.mp3
-98,-35.74949,44.25051,Punk Jazz Revisited.mp3
-99,-36.191986,43.808014,Punk Jazz Revisited.mp3
-100,-34.151184,45.848816,Punk Jazz Revisited.mp3
-101,-35.876217,44.123783,Punk Jazz Revisited.mp3
-102,-36.693874,43.306126,Punk Jazz Revisited.mp3
-103,-34.875854,45.124146,Punk Jazz Revisited.mp3
-104,-38.061047,41.938953,Punk Jazz Revisited.mp3
-105,-36.182972,43.817028,Punk Jazz Revisited.mp3
-106,-35.40512,44.59488,Punk Jazz Revisited.mp3
-107,-31.713226,48.286774,Punk Jazz Revisited.mp3
-108,-31.88181,48.11819,Punk Jazz Revisited.mp3
-109,-33.686634,46.313366,Punk Jazz Revisited.mp3
-110,-33.661655,46.338345,Punk Jazz Revisited.mp3
-111,-32.54543,47.45457,Punk Jazz Revisited.mp3
-112,-32.86217,47.13783,Punk Jazz Revisited.mp3
-113,-32.538773,47.461227,Punk Jazz Revisited.mp3
-114,-32.248947,47.751053,Punk Jazz Revisited.mp3
-115,-33.334843,46.665157,Punk Jazz Revisited.mp3
-116,-33.93499,46.06501,Punk Jazz Revisited.mp3
-117,-33.497524,46.502476,Punk Jazz Revisited.mp3
-118,-33.214577,46.785423,Punk Jazz Revisited.mp3
-119,-33.283,46.717,Punk Jazz Revisited.mp3
-120,-32.647827,47.352173,Punk Jazz Revisited.mp3
-121,-33.82995,46.17005,Punk Jazz Revisited.mp3
-122,-32.26341,47.73659,Punk Jazz Revisited.mp3
-123,-33.650253,46.349747,Punk Jazz Revisited.mp3
-124,-33.178463,46.821537,Punk Jazz Revisited.mp3
-125,-35.495285,44.504715,Punk Jazz Revisited.mp3
-126,-34.047806,45.952194,Punk Jazz Revisited.mp3
-127,-33.562874,46.437126,Punk Jazz Revisited.mp3
-128,-32.28552,47.71448,Punk Jazz Revisited.mp3
-129,-33.462406,46.537594,Punk Jazz Revisited.mp3
-130,-32.746716,47.253284,Punk Jazz Revisited.mp3
-131,-32.916008,47.083992,Punk Jazz Revisited.mp3
-132,-34.816624,45.183376,Punk Jazz Revisited.mp3
-133,-45.76761,34.23239,Punk Jazz Revisited.mp3
-134,-38.562843,41.437157,Roseaux and Anna Majidson - I Should Have Known.mp3
-135,-35.36322,44.63678,Roseaux and Anna Majidson - I Should Have Known.mp3
-136,-35.242134,44.757866,Roseaux and Anna Majidson - I Should Have Known.mp3
-137,-34.678265,45.321735,Roseaux and Anna Majidson - I Should Have Known.mp3
-138,-35.088615,44.911385,Roseaux and Anna Majidson - I Should Have Known.mp3
-139,-33.828896,46.171104,Roseaux and Anna Majidson - I Should Have Known.mp3
-140,-34.36917,45.63083,Roseaux and Anna Majidson - I Should Have Known.mp3
-141,-33.387753,46.612247,Roseaux and Anna Majidson - I Should Have Known.mp3
-142,-33.230705,46.769295,Roseaux and Anna Majidson - I Should Have Known.mp3
-143,-31.447792,48.552208,Roseaux and Anna Majidson - I Should Have Known.mp3
-144,-31.549564,48.450436,Roseaux and Anna Majidson - I Should Have Known.mp3
-145,-33.30683,46.69317,Roseaux and Anna Majidson - I Should Have Known.mp3
-146,-33.82605,46.17395,Roseaux and Anna Majidson - I Should Have Known.mp3
-147,-33.076195,46.923805,Roseaux and Anna Majidson - I Should Have Known.mp3
-148,-28.525375,51.474625,Roseaux and Anna Majidson - I Should Have Known.mp3
-149,-32.257347,47.742653,Roseaux and Anna Majidson - I Should Have Known.mp3
-150,-29.914299,50.0857,Roseaux and Anna Majidson - I Should Have Known.mp3
-151,-32.861908,47.138092,Roseaux and Anna Majidson - I Should Have Known.mp3
-152,-28.183441,51.81656,Roseaux and Anna Majidson - I Should Have Known.mp3
-153,-33.14148,46.85852,Roseaux and Anna Majidson - I Should Have Known.mp3
-154,-42.968697,37.031303,Roseaux and Anna Majidson - I Should Have Known.mp3
-155,-41.63853,38.36147,Roseaux and Anna Majidson - I Should Have Known.mp3
-156,-31.937294,48.062706,you-got-me-flying.mp3
-157,-25.900063,54.099937,you-got-me-flying.mp3
-158,-25.89534,54.10466,you-got-me-flying.mp3
-159,-25.937027,54.062973,you-got-me-flying.mp3
-160,-26.337261,53.66274,you-got-me-flying.mp3
-161,-26.474663,53.525337,you-got-me-flying.mp3
-162,-26.415577,53.584423,you-got-me-flying.mp3
-163,-26.394672,53.605328,you-got-me-flying.mp3
-164,-26.214756,53.785244,you-got-me-flying.mp3
-165,-26.252869,53.74713,you-got-me-flying.mp3
-166,-33.026066,46.973934,you-got-me-flying.mp3
-167,-26.618992,53.38101,you-got-me-flying.mp3
-168,-26.117722,53.88228,you-got-me-flying.mp3
-169,-26.116493,53.883507,you-got-me-flying.mp3
-170,-25.975822,54.024178,you-got-me-flying.mp3
-171,-26.381077,53.618923,you-got-me-flying.mp3
-172,-26.34729,53.65271,you-got-me-flying.mp3
-173,-32.275703,47.724297,you-got-me-flying.mp3
+0,-46.876595,33.123405,IR - Eleanor na Run.mp3
+1,-46.030125,33.969875,IR - Eleanor na Run.mp3
+2,-48.3507,31.6493,IR - Eleanor na Run.mp3
+3,-42.68236,37.31764,IR - Eleanor na Run.mp3
+4,-48.21945,31.78055,IR - Eleanor na Run.mp3
+5,-44.4957,35.5043,IR - Eleanor na Run.mp3
+6,-43.897625,36.102375,IR - Eleanor na Run.mp3
+7,-47.954994,32.045006,IR - Eleanor na Run.mp3
+8,-45.594666,34.405334,IR - Eleanor na Run.mp3
+9,-49.37851,30.621492,IR - Eleanor na Run.mp3
+10,-46.292217,33.707783,IR - Eleanor na Run.mp3
+11,-46.767582,33.232418,IR - Eleanor na Run.mp3
+12,-44.306572,35.693428,IR - Eleanor na Run.mp3
+13,-46.30638,33.69362,IR - Eleanor na Run.mp3
+14,-45.38656,34.61344,IR - Eleanor na Run.mp3
+15,-44.921696,35.078304,IR - Eleanor na Run.mp3
+16,-42.952557,37.047443,IR - Eleanor na Run.mp3
+17,-43.08006,36.91994,IR - Eleanor na Run.mp3
+18,-45.005203,34.994797,IR - Eleanor na Run.mp3
+19,-36.519966,43.480034,IR - Maudabawn Chapel.mp3
+20,-34.922028,45.077972,IR - Maudabawn Chapel.mp3
+21,-34.54496,45.45504,IR - Maudabawn Chapel.mp3
+22,-33.40576,46.59424,IR - Maudabawn Chapel.mp3
+23,-33.96916,46.03084,IR - Maudabawn Chapel.mp3
+24,-33.343693,46.656307,IR - Maudabawn Chapel.mp3
+25,-31.16845,48.83155,IR - Maudabawn Chapel.mp3
+26,-37.386528,42.613472,IR - Maudabawn Chapel.mp3
+27,-39.490265,40.509735,IR - Maudabawn Chapel.mp3
+28,-32.54106,47.45894,IR - Maudabawn Chapel.mp3
+29,-35.033527,44.966473,IR - Maudabawn Chapel.mp3
+30,-38.09927,41.90073,IR - Maudabawn Chapel.mp3
+31,-33.54054,46.45946,IR - Maudabawn Chapel.mp3
+32,-36.69808,43.30192,IR - Maudabawn Chapel.mp3
+33,-33.123592,46.876408,IR - Maudabawn Chapel.mp3
+34,-37.332706,42.667294,IR - Maudabawn Chapel.mp3
+35,-30.699753,49.300247,IR - Maudabawn Chapel.mp3
+36,-33.34927,46.65073,IR - Old Killeavey.mp3
+37,-33.081856,46.918144,IR - Old Killeavey.mp3
+38,-32.591698,47.408302,IR - Old Killeavey.mp3
+39,-32.142876,47.857124,IR - Old Killeavey.mp3
+40,-33.237503,46.762497,IR - Old Killeavey.mp3
+41,-34.89891,45.10109,IR - Old Killeavey.mp3
+42,-35.859352,44.140648,IR - Old Killeavey.mp3
+43,-32.952446,47.047554,IR - Old Killeavey.mp3
+44,-35.116966,44.883034,IR - Old Killeavey.mp3
+45,-34.233627,45.766373,IR - Old Killeavey.mp3
+46,-34.827976,45.172024,IR - Old Killeavey.mp3
+47,-32.420288,47.579712,IR - Old Killeavey.mp3
+48,-35.9679,44.0321,IR - Old Killeavey.mp3
+49,-34.66673,45.33327,IR - Old Killeavey.mp3
+50,-32.225883,47.774117,IR - Old Killeavey.mp3
+51,-37.34909,42.65091,IR - Old Killeavey.mp3
+52,-35.281143,44.718857,IR - Old Killeavey.mp3
+53,-34.310814,45.689186,IR - Old Killeavey.mp3
+54,-34.12268,45.87732,IR - Old Killeavey.mp3
+55,-32.478897,47.521103,IR - The Bucks of Dranmore.mp3
+56,-32.221,47.779,IR - The Bucks of Dranmore.mp3
+57,-35.188026,44.811974,IR - The Bucks of Dranmore.mp3
+58,-33.256916,46.743084,IR - The Bucks of Dranmore.mp3
+59,-33.88304,46.11696,IR - The Bucks of Dranmore.mp3
+60,-32.70571,47.29429,IR - The Bucks of Dranmore.mp3
+61,-33.43873,46.56127,IR - The Bucks of Dranmore.mp3
+62,-33.58406,46.41594,IR - The Bucks of Dranmore.mp3
+63,-33.634243,46.365757,IR - The Bucks of Dranmore.mp3
+64,-32.995724,47.004276,IR - The Bucks of Dranmore.mp3
+65,-34.242996,45.757004,IR - The Bucks of Dranmore.mp3
+66,-32.762817,47.237183,IR - The Bucks of Dranmore.mp3
+67,-33.98316,46.01684,IR - The Bucks of Dranmore.mp3
+68,-42.392826,37.607174,IR - The Stone in the Field.mp3
+69,-41.178543,38.821457,IR - The Stone in the Field.mp3
+70,-41.25495,38.74505,IR - The Stone in the Field.mp3
+71,-40.688885,39.311115,IR - The Stone in the Field.mp3
+72,-39.691948,40.308052,IR - The Stone in the Field.mp3
+73,-40.276005,39.723995,IR - The Stone in the Field.mp3
+74,-41.385643,38.614357,IR - The Stone in the Field.mp3
+75,-40.904392,39.095608,IR - The Stone in the Field.mp3
+76,-39.894203,40.105797,IR - The Stone in the Field.mp3
+77,-38.919086,41.080914,IR - The Stone in the Field.mp3
+78,-34.283863,45.716137,IR - The Stone in the Field.mp3
+79,-33.605736,46.394264,IR - The Stone in the Field.mp3
+80,-35.444054,44.555946,IR - The Stone in the Field.mp3
+81,-33.600086,46.399914,IR - The Stone in the Field.mp3
+82,-35.834488,44.165512,IR - The Stone in the Field.mp3
+83,-37.898388,42.101612,IR - The Stone in the Field.mp3
+84,-31.14907,48.85093,IR - The Stone in the Field.mp3
+85,-33.17994,46.82006,IR - The Stone in the Field.mp3
+86,-37.291626,42.708374,IR - The Stone in the Field.mp3
+87,-35.978004,44.021996,IR - The Stone in the Field.mp3
+88,-33.733276,46.266724,IR - The Stone in the Field.mp3
+89,-32.89537,47.10463,IR - The Stone in the Field.mp3
+90,-34.254604,45.745396,IR - The Stone in the Field.mp3
+91,-33.905365,46.094635,IR - The Stone in the Field.mp3
+92,-32.712364,47.287636,IR - The Stone in the Field.mp3
+93,-36.0272,43.9728,IR - The Stone in the Field.mp3
+94,-36.522606,43.477394,JA - Fumie Hihara - Koto.mp3
+95,-36.836582,43.163418,JA - Fumie Hihara - Koto.mp3
+96,-34.709846,45.290154,JA - Fumie Hihara - Koto.mp3
+97,-34.7874,45.2126,JA - Fumie Hihara - Koto.mp3
+98,-35.151703,44.848297,JA - Fumie Hihara - Koto.mp3
+99,-35.618458,44.381542,JA - Fumie Hihara - Koto.mp3
+100,-34.796635,45.203365,JA - Fumie Hihara - Koto.mp3
+101,-36.167103,43.832897,JA - Fumie Hihara - Koto.mp3
+102,-35.201447,44.798553,JA - Fumie Hihara - Koto.mp3
+103,-36.239964,43.760036,JA - Fumie Hihara - Koto.mp3
+104,-35.875362,44.124638,JA - Fumie Hihara - Koto.mp3
+105,-33.35895,46.64105,JA - Fumie Hihara - Koto.mp3
+106,-34.094032,45.905968,JA - Fumie Hihara - Koto.mp3
+107,-35.010742,44.989258,JA - Fumie Hihara - Koto.mp3
+108,-36.525192,43.474808,JA - Fumie Hihara - Koto.mp3
+109,-35.29328,44.70672,JA - Fumie Hihara - Koto.mp3
+110,-35.801853,44.198147,JA - Fumie Hihara - Koto.mp3
+111,-38.050827,41.949173,JA - Fumie Hihara - Koto.mp3
+112,-37.906883,42.093117,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+113,-39.27478,40.72522,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+114,-48.74962,31.250383,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+115,-39.373665,40.626335,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+116,-39.43907,40.56093,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+117,-37.982754,42.017246,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+118,-45.801456,34.198544,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+119,-38.809418,41.190582,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+120,-41.254967,38.745033,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+121,-39.597527,40.402473,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+122,-38.41064,41.58936,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+123,-41.15536,38.84464,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+124,-40.51076,39.48924,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+125,-41.314693,38.685307,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+126,-38.166245,41.833755,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+127,-37.53647,42.46353,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+128,-37.693768,42.306232,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+129,-41.092525,38.907475,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+130,-39.84306,40.15694,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+131,-39.47674,40.52326,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+132,-36.922375,43.077625,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+133,-41.001225,38.998775,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+134,-42.167423,37.832577,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+135,-40.453842,39.546158,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+136,-40.45295,39.54705,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+137,-40.680992,39.319008,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+138,-35.383377,44.616623,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+139,-34.560356,45.439644,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+140,-37.379833,42.620167,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+141,-39.535896,40.464104,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+142,-43.637794,36.362206,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+143,-42.029568,37.970432,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+144,-40.89621,39.10379,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+145,-40.408924,39.591076,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+146,-42.5432,37.4568,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+147,-43.19346,36.80654,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+148,-37.823746,42.176254,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+149,-39.829792,40.170208,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+150,-40.050323,39.949677,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+151,-38.584156,41.415844,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+152,-41.503796,38.496204,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+153,-37.630936,42.369064,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+154,-38.23103,41.76897,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+155,-36.43791,43.56209,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+156,-37.01673,42.98327,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+157,-36.85382,43.14618,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+158,-34.49176,45.50824,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+159,-44.86441,35.13559,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+160,-37.280388,42.719612,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+161,-42.605453,37.394547,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+162,-38.258385,41.741615,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+163,-40.98645,39.01355,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+164,-36.618668,43.381332,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+165,-39.511223,40.488777,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+166,-40.26625,39.73375,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+167,-38.167862,41.832138,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+168,-36.79014,43.20986,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+169,-38.03291,41.96709,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+170,-41.16889,38.83111,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+171,-35.44687,44.55313,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+172,-36.15816,43.84184,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+173,-36.16808,43.83192,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+174,-38.846912,41.153088,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+175,-39.499832,40.500168,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+176,-42.009018,37.990982,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+177,-38.30024,41.69976,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+178,-38.169537,41.830463,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3
+179,-44.50023,35.49977,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+180,-42.242886,37.757114,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+181,-39.018692,40.981308,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+182,-39.37563,40.62437,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+183,-39.99716,40.00284,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+184,-39.94371,40.05629,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+185,-39.139523,40.860477,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+186,-40.533615,39.466385,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+187,-40.858284,39.141716,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+188,-39.170258,40.829742,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+189,-40.914474,39.085526,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+190,-38.9082,41.0918,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+191,-38.31803,41.68197,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+192,-39.38401,40.61599,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+193,-41.731712,38.268288,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+194,-40.754707,39.245293,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+195,-40.69176,39.30824,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+196,-38.769928,41.230072,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+197,-40.14322,39.85678,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+198,-41.481224,38.518776,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+199,-41.553844,38.446156,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+200,-41.602448,38.397552,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+201,-38.262344,41.737656,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+202,-40.33263,39.66737,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+203,-41.14444,38.85556,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+204,-40.44291,39.55709,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+205,-38.083946,41.916054,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+206,-38.32766,41.67234,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+207,-38.64584,41.35416,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+208,-39.505943,40.494057,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+209,-39.343777,40.656223,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+210,-41.568436,38.431564,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+211,-42.21397,37.78603,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+212,-42.587177,37.412823,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+213,-39.30469,40.69531,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+214,-41.362736,38.637264,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+215,-40.690094,39.309906,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+216,-38.92435,41.07565,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+217,-44.13035,35.86965,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+218,-41.854805,38.145195,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+219,-43.300053,36.699947,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+220,-40.76959,39.23041,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+221,-41.8494,38.1506,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+222,-39.195534,40.804466,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+223,-40.88094,39.11906,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+224,-39.67382,40.32618,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+225,-42.707222,37.292778,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+226,-39.459232,40.540768,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+227,-39.52078,40.47922,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+228,-40.606686,39.393314,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+229,-38.761173,41.238827,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+230,-40.69747,39.30253,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+231,-46.255917,33.744083,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+232,-38.08629,41.91371,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+233,-42.659115,37.340885,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+234,-39.082054,40.917946,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+235,-40.03595,39.96405,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+236,-39.37565,40.62435,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+237,-41.850132,38.149868,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+238,-39.916553,40.083447,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+239,-41.508614,38.491386,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+240,-38.056282,41.943718,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+241,-40.312233,39.687767,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+242,-44.03766,35.96234,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3
+243,-47.154766,32.845234,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+244,-46.82068,33.17932,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+245,-48.690495,31.309505,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+246,-47.802254,32.197746,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+247,-45.030437,34.969563,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+248,-48.83813,31.16187,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+249,-48.890724,31.109278,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+250,-48.425503,31.574497,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+251,-46.395096,33.604904,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+252,-44.505547,35.494453,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+253,-47.826023,32.173977,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+254,-40.294197,39.705803,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+255,-47.713108,32.286892,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+256,-47.22796,32.77204,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+257,-39.02961,40.97039,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+258,-42.432354,37.567646,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+259,-36.21093,43.78907,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+260,-39.44732,40.55268,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+261,-36.817776,43.182224,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+262,-38.042103,41.957897,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+263,-35.93201,44.06799,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+264,-37.435272,42.564728,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+265,-43.45836,36.54164,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+266,-39.003723,40.996277,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+267,-36.977238,43.022762,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+268,-42.448685,37.551315,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+269,-38.8536,41.1464,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+270,-37.470963,42.529037,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+271,-35.885235,44.114765,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+272,-35.164032,44.835968,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+273,-40.630512,39.369488,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+274,-37.38775,42.61225,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+275,-38.589333,41.410667,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+276,-44.86537,35.13463,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+277,-38.91728,41.08272,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+278,-35.81703,44.18297,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+279,-41.125153,38.874847,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+280,-40.302174,39.697826,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+281,-44.235664,35.764336,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+282,-42.17687,37.82313,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+283,-35.4018,44.5982,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+284,-41.392662,38.607338,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+285,-37.358025,42.641975,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+286,-36.4964,43.5036,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+287,-37.2617,42.7383,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+288,-45.783707,34.216293,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3
+289,-45.710136,34.289864,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+290,-44.254585,35.745415,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+291,-44.259743,35.740257,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+292,-45.611618,34.388382,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+293,-42.39325,37.60675,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+294,-40.804775,39.195225,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+295,-44.70661,35.29339,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+296,-45.250443,34.749557,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+297,-43.01354,36.98646,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+298,-42.322433,37.677567,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+299,-44.31954,35.68046,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+300,-42.58076,37.41924,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+301,-43.61511,36.38489,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+302,-43.89892,36.10108,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+303,-44.781727,35.218273,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+304,-45.06343,34.93657,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+305,-42.79107,37.20893,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+306,-43.76588,36.23412,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+307,-40.50571,39.49429,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+308,-43.23939,36.76061,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+309,-40.65247,39.34753,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+310,-38.61343,41.38657,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+311,-42.87783,37.12217,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+312,-36.47203,43.52797,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+313,-43.08126,36.91874,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+314,-41.981552,38.018448,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+315,-42.488342,37.511658,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+316,-40.83962,39.16038,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+317,-42.85051,37.14949,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+318,-41.41413,38.58587,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+319,-42.871983,37.128017,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+320,-41.735947,38.264053,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+321,-41.54632,38.45368,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+322,-39.683247,40.316753,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+323,-34.716545,45.283455,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+324,-42.208366,37.791634,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3
+325,-38.057518,41.942482,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+326,-37.816753,42.183247,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+327,-43.462025,36.537975,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+328,-39.584984,40.415016,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+329,-47.159393,32.840607,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+330,-46.150738,33.849262,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+331,-53.918808,26.08119,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+332,-43.631092,36.368908,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+333,-44.70962,35.29038,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+334,-47.384373,32.615627,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+335,-46.17583,33.82417,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+336,-51.449356,28.550642,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+337,-44.997944,35.002056,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+338,-41.964848,38.035152,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+339,-45.072075,34.927925,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+340,-44.726788,35.273212,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+341,-41.694595,38.305405,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+342,-41.82718,38.17282,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+343,-47.173687,32.826313,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+344,-48.094055,31.905947,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+345,-46.175156,33.824844,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+346,-48.85258,31.147419,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+347,-47.107334,32.892666,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+348,-47.206337,32.793663,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+349,-44.097324,35.902676,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+350,-45.37581,34.62419,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+351,-42.28483,37.71517,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+352,-44.779438,35.220562,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+353,-38.124393,41.875607,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+354,-42.905823,37.094177,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+355,-43.171078,36.828922,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+356,-43.976013,36.023987,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+357,-43.84827,36.15173,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+358,-42.899364,37.100636,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+359,-39.80355,40.19645,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+360,-43.689995,36.310005,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+361,-38.121906,41.878094,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+362,-43.039593,36.960407,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+363,-43.416626,36.583374,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+364,-38.51808,41.48192,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+365,-37.681435,42.318565,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+366,-44.954674,35.045326,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+367,-50.196915,29.803083,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+368,-40.585182,39.414818,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+369,-36.42608,43.57392,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+370,-38.3474,41.6526,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+371,-44.031616,35.968384,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+372,-39.531517,40.468483,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+373,-44.12842,35.87158,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+374,-42.165665,37.834335,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+375,-37.45893,42.54107,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+376,-47.27363,32.72637,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+377,-43.93841,36.06159,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+378,-41.208885,38.791115,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+379,-35.91232,44.08768,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+380,-39.146152,40.853848,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+381,-42.989677,37.010323,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+382,-39.694557,40.305443,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+383,-37.115746,42.884254,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+384,-39.13898,40.86102,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+385,-40.615788,39.384212,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+386,-39.531265,40.468735,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+387,-41.096973,38.903027,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+388,-39.180027,40.819973,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+389,-38.119667,41.880333,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+390,-42.6174,37.3826,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+391,-42.370846,37.629154,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+392,-37.761436,42.238564,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+393,-35.556736,44.443264,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+394,-38.37111,41.62889,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+395,-35.639336,44.360664,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+396,-37.754944,42.245056,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+397,-40.369133,39.630867,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+398,-37.772575,42.227425,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+399,-40.150772,39.849228,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+400,-43.25183,36.74817,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+401,-42.303272,37.696728,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+402,-38.192894,41.807106,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+403,-40.108646,39.891354,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+404,-43.025635,36.974365,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+405,-40.82661,39.17339,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+406,-39.81201,40.18799,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+407,-39.0822,40.9178,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+408,-38.915905,41.084095,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+409,-42.430996,37.569004,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+410,-41.14955,38.85045,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+411,-34.846577,45.153423,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+412,-38.39933,41.60067,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+413,-39.832043,40.167957,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+414,-40.356224,39.643776,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+415,-35.599094,44.400906,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+416,-44.665382,35.334618,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+417,-44.946026,35.053974,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+418,-47.796825,32.203175,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+419,-45.82151,34.17849,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+420,-41.990704,38.009296,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+421,-42.450085,37.549915,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+422,-45.920704,34.079296,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+423,-37.868454,42.131546,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+424,-43.730526,36.269474,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+425,-44.233505,35.766495,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+426,-48.512123,31.487877,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+427,-44.236732,35.763268,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+428,-42.05332,37.94668,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+429,-38.83864,41.16136,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+430,-44.59971,35.40029,JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3
+431,-40.005383,39.994617,JA - quatuor.mp3
+432,-45.481964,34.518036,JA - quatuor.mp3
+433,-47.679592,32.320408,JA - quatuor.mp3
+434,-44.546864,35.453136,JA - quatuor.mp3
+435,-36.709152,43.290848,JA - quatuor.mp3
+436,-39.938637,40.061363,JA - quatuor.mp3
+437,-43.30546,36.69454,JA - quatuor.mp3
+438,-40.3694,39.6306,JA - quatuor.mp3
+439,-44.01483,35.98517,JA - quatuor.mp3
+440,-61.369667,18.630335,JA - quatuor.mp3
+441,-54.512825,25.487177,JA - quatuor.mp3
+442,-44.427338,35.572662,JA - quatuor.mp3
+443,-41.766132,38.233868,JA - quatuor.mp3
+444,-44.94603,35.05397,JA - quatuor.mp3
+445,-40.60441,39.39559,JA - quatuor.mp3
+446,-46.264706,33.735294,JA - quatuor.mp3
+447,-41.74601,38.25399,JA - quatuor.mp3
+448,-41.654285,38.345715,JA - quatuor.mp3
+449,-46.989113,33.010887,JA - quatuor.mp3
+450,-41.28801,38.71199,JA - quatuor.mp3
+451,-43.92562,36.07438,JA - quatuor.mp3
+452,-37.694202,42.305798,JA - quatuor.mp3
+453,-38.123302,41.876698,JA - quatuor.mp3
+454,-40.39582,39.60418,JA - quatuor.mp3
+455,-37.549652,42.450348,JA - quatuor.mp3
+456,-39.94487,40.05513,JA - quatuor.mp3
+457,-42.951927,37.048073,JA - quatuor.mp3
+458,-39.646637,40.353363,JA - quatuor.mp3
+459,-36.334465,43.665535,JA - quatuor.mp3
+460,-37.018696,42.981304,JA - quatuor.mp3
+461,-40.323006,39.676994,JA - quatuor.mp3
+462,-40.11337,39.88663,JA - quatuor.mp3
+463,-38.45452,41.54548,JA - quatuor.mp3
+464,-37.30374,42.69626,JA - quatuor.mp3
+465,-40.37139,39.62861,JA - quatuor.mp3
+466,-37.7532,42.2468,JA - quatuor.mp3
+467,-41.059612,38.940388,JA - quatuor.mp3
+468,-37.034454,42.965546,JA - quatuor.mp3
+469,-39.6191,40.3809,JA - quatuor.mp3
+470,-35.820827,44.179173,JA - quatuor.mp3
+471,-36.50107,43.49893,JA - quatuor.mp3
+472,-37.974167,42.025833,JA - quatuor.mp3
