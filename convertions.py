@@ -1,6 +1,7 @@
 import librosa
 import librosa.display
 import numpy as np
+import matplotlib.pyplot as plt
 import os
 from PIL import Image
 
@@ -69,6 +70,33 @@ def signal_to_spectro(audio_signal:np.ndarray, n_fft:int, hop_length:int, displa
     return D
 
 
+def spectro_to_mel_spectro(spectro_db:np.ndarray, sr:int, n_mels:int, n_fft:int, hop_length:int, fmax:int=18000, display:bool=False) -> np.ndarray:
+    """
+    Convert spectrogram to mel spectrogram
+    """
+    
+    if display:
+        print("spectro_to_mel_spectro()")
+        print("  - Checking input parameters...")
+
+    assert type(spectro_db) == np.ndarray, "Spectrogram must be numpy array"
+    assert type(sr) == int, "Sampling rate must be integer"
+    assert type(n_mels) == int, "Number of mel bands must be integer"
+    
+    # Convert spectrogram to mel spectrogram
+    if display: print("  - Converting spectrogram to mel spectrogram...")
+    # non db spectrogram
+    spectro = librosa.db_to_amplitude(spectro_db)
+    
+    mel_spectro = librosa.feature.melspectrogram(S=spectro, sr=sr, n_mels=n_mels, fmax=fmax, n_fft=n_fft, hop_length=hop_length)
+    
+    # Convert mel spectrogram to decibels
+    if display: print("  - Converting mel spectrogram to decibels...")
+    mel_spectro_db = librosa.power_to_db(mel_spectro)
+    
+    if display: print("## end spectro_to_mel_spectro()")
+    return mel_spectro_db
+
 def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=False) -> None:
     """
     Convert spectrogram to image and save it to spectro_dir_path
@@ -78,7 +106,10 @@ def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=
     
     # rescacle to 0-255 and convert to uint8
     if display: print("  - Rescaling spectrogram (0 - 255)...")
-    spectro_db = 255 * (spectro_db - spectro_db.min()) / (spectro_db.max() - spectro_db.min())
+    if spectro_db.max() - spectro_db.min() < 1e-6:
+        spectro_db = np.zeros(spectro_db.shape)
+    else:
+        spectro_db = 255 * (spectro_db - spectro_db.min()) / (spectro_db.max() - spectro_db.min())
     spectro_db = spectro_db.astype(np.uint8)
 
     # crop image to square
@@ -89,9 +120,6 @@ def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=
     image.save(spectro_file_path, format="png")
     
     if display: print("## end spectro_to_image()")
-
-
-
 
 
 
@@ -262,6 +290,15 @@ def main_4():
     signal_recovered = signal_batch_joiner(np.array(signals_recovered), display=True)
     signal_to_mp3(signal_recovered, sr, "data/audio_output/" + music_name + "_recovered.mp3", display=True)
 
+def main_5():
+    music_name = "a-night-in-tunisia"
+    
+    signal, sr = mp3_to_signal("data/audio/" + music_name + ".mp3", display=True)
+    S = signal_to_spectro(signal, 2048, 512, display=True)
+    spectro_to_image(S, "data/audio_output/" + music_name + ".png", display=True)
+    mel_S = spectro_to_mel_spectro(S, sr, 128, display=True)
+    spectro_to_image(mel_S, "data/audio_output/" + music_name + "_mel.png", display=True)
+
 if __name__ == "__main__":
-    main_4()
+    main_5()
     

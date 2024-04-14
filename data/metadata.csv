@@ -1,8 +1,8 @@
-filename,genre,region,country,language,duration,sample_rate,index_range,index_start,index_end
-a-night-in-tunisia.mp3,,,,,216.22421768707483,44100,,0,20
-arnau-griso-es-gratis-acustico.mp3,,,,,213.47266666666667,48000,,21,41
-Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3,,,,,231.75943310657595,44100,,42,64
-Norah Jones - Summertime.mp3,,,,,304.0486041666667,48000,,65,94
-Punk Jazz Revisited.mp3,,,,,399.1771428571429,44100,,95,133
-Roseaux and Anna Majidson - I Should Have Known.mp3,,,,,229.0133125,48000,,134,155
-you-got-me-flying.mp3,,,,,184.25364583333334,48000,,156,173
+filename,genre,region,country,language,duration,sample_rate,index_range,index_start,index_end,min_spectro_db,max_spectro_db
+a-night-in-tunisia.mp3,,,,,216.22421768707483,44100.0,,0.0,20.0,-34.68830871582031,45.31169128417969
+arnau-griso-es-gratis-acustico.mp3,,,,,213.47266666666667,48000.0,,21.0,41.0,-31.59183883666992,48.40816116333008
+Fumie Hihara - Koto _ La musique traditionnelle japonaise_gr-oCIRSckM.mp3,,,,,231.75943310657595,44100.0,,42.0,64.0,-100.0,-100.0
+Norah Jones - Summertime.mp3,,,,,304.0486041666667,48000.0,,65.0,94.0,-41.7573356628418,38.2426643371582
+Punk Jazz Revisited.mp3,,,,,399.1771428571429,44100.0,,95.0,133.0,-45.767608642578125,34.232391357421875
+Roseaux and Anna Majidson - I Should Have Known.mp3,,,,,229.0133125,48000.0,,134.0,155.0,-41.63853073120117,38.36146926879883
+you-got-me-flying.mp3,,,,,184.25364583333334,48000.0,,156.0,173.0,-32.27570343017578,47.72429656982422
