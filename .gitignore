@@ -1,2 +1,4 @@
-recovered_audio/*
+*.mp3
+*.png
+!data/audio/*
 __pycache__/*
