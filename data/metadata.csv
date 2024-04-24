@@ -1,13 +1,13 @@
-filename,genre,country,duration,sample_rate,index_start,index_end
-IR - Eleanor na Run.mp3,traditional,Ireland,199.94596371882085,44100,0,18
-IR - Maudabawn Chapel.mp3,traditional,Ireland,176.78473922902495,44100,19,35
-IR - Old Killeavey.mp3,traditional,Ireland,197.02963718820862,44100,36,54
-IR - The Bucks of Dranmore.mp3,traditional,Ireland,138.1757596371882,44100,55,67
-IR - The Stone in the Field.mp3,traditional,Ireland,266.1496371882086,44100,68,93
-JA - Fumie Hihara - Koto.mp3,traditional,Japan,188.01739229024943,44100,94,111
-JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3,traditional,Japan,670.603514739229,44100,112,178
-JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3,traditional,Japan,645.0557596371882,44100,179,242
-JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3,traditional,Japan,467.37086167800453,44100,243,288
-JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3,traditional,Japan,361.039433106576,44100,289,324
-JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3,traditional,Japan,1062.7798412698412,44100,325,430
-JA - quatuor.mp3,traditional,Japan,429.3626984126984,44100,431,472
+filename,genre,region,country,duration,sample_rate,index_start,index_end
+IR - Eleanor na Run.mp3,irish,,Ireland,199.94596371882085,44100,0,18
+IR - Maudabawn Chapel.mp3,irish,,Ireland,176.78473922902495,44100,19,35
+IR - Old Killeavey.mp3,irish,,Ireland,197.02963718820862,44100,36,54
+IR - The Bucks of Dranmore.mp3,irish,,Ireland,138.1757596371882,44100,55,67
+IR - The Stone in the Field.mp3,irish,,Ireland,266.1496371882086,44100,68,93
+JA - Fumie Hihara - Koto.mp3,japanese,,Japan,188.01739229024943,44100,94,111
+JA - Nanae Yoshimura  The Art of Koto Vol 1 - Chidori.mp3,japanese,,Japan,670.603514739229,44100,112,178
+JA - Nanae Yoshimura  The Art of Koto Vol 1 - Godan-ginuta.mp3,japanese,,Japan,645.0557596371882,44100,179,242
+JA - Nanae Yoshimura  The Art of Koto Vol 1 - Midare.mp3,japanese,,Japan,467.37086167800453,44100,243,288
+JA - Nanae Yoshimura  The Art of Koto Vol 1 - Rokudan.mp3,japanese,,Japan,361.039433106576,44100,289,324
+JA - Nanae Yoshimura  The Art of Koto Vol 1 - Zangetsu.mp3,japanese,,Japan,1062.7798412698412,44100,325,430
+JA - quatuor.mp3,japanese,,Japan,429.3626984126984,44100,431,472
