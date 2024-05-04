@@ -1,12 +1,13 @@
 import librosa
 import librosa.display
 import numpy as np
+from typing import Tuple
 import matplotlib.pyplot as plt
 import os
 from PIL import Image
 
 
-def mp3_to_signal(audio_file_path:str, display:bool=False) -> tuple[np.ndarray, int]:
+def audio_file_to_signal(audio_file_path:str, display:bool=False) -> Tuple[np.ndarray, int]:
     """
     Load audio file and return audio signal and sampling rate
     """
@@ -15,7 +16,7 @@ def mp3_to_signal(audio_file_path:str, display:bool=False) -> tuple[np.ndarray, 
         print("mp3_to_signal()")
         print("  - Checking input parameters...")
 
-    assert audio_file_path.endswith(".mp3"), "Audio file must be mp3 format"
+    assert audio_file_path.endswith(".mp3") or audio_file_path.endswith(".wav"), "Audio file must be mp3 or wav format"
     
     # Load audio file
     if display: print("  - Loading audio file...")
@@ -97,7 +98,7 @@ def spectro_to_mel_spectro(spectro_db:np.ndarray, sr:int, n_mels:int, n_fft:int,
     if display: print("## end spectro_to_mel_spectro()")
     return mel_spectro_db
 
-def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=False) -> None:
+def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=False, size:Tuple[int, int]=None) -> None:
     """
     Convert spectrogram to image and save it to spectro_dir_path
     """
@@ -115,6 +116,9 @@ def spectro_to_image(spectro_db:np.ndarray, spectro_file_path:str, display:bool=
     # crop image to square
     if display: print("  - Cropping spectrogram...")
     image = Image.fromarray(spectro_db)
+    
+    if size is not None:
+        image = image.resize(size)
     
     if display: print("  - Saving spectrogram...")
     image.save(spectro_file_path, format="png")
@@ -249,7 +253,7 @@ def signal_to_mp3(audio_signal:np.ndarray, sr:int, audio_file_path:str, display:
 def main_2():
     music_name = "a-night-in-tunisia"
     
-    signal, sr = mp3_to_signal("data/audio/" + music_name + ".mp3", display=True)
+    signal, sr = audio_file_to_signal("data/audio/" + music_name + ".mp3", display=True)
     S = signal_to_spectro(signal, 2048, 512, display=True)
     signal_recovered = spectro_to_signal(S, 2048, 512, display=True)
     signal_to_mp3(signal_recovered, sr, "data/audio_output/" + music_name + "_recovered.mp3", display=True)
@@ -258,7 +262,7 @@ def main_2():
 def main_3():
     music_name = "a-night-in-tunisia"
     
-    signal, sr = mp3_to_signal("data/audio/" + music_name + ".mp3", display=True)
+    signal, sr = audio_file_to_signal("data/audio/" + music_name + ".mp3", display=True)
     S = signal_to_spectro(signal, 2048, 512, display=True)
     spectro_to_image(S, "data/audio_output/" + music_name + ".png", display=True)
     S_recovered = image_to_spectro("data/audio_output/" + music_name + ".png", S.min(), S.max(), display=True)
@@ -269,7 +273,7 @@ def main_3():
 def main_4():
     music_name = "a-night-in-tunisia"
     
-    signal, sr = mp3_to_signal("data/audio/" + music_name + ".mp3", display=True)
+    signal, sr = audio_file_to_signal("data/audio/" + music_name + ".mp3", display=True)
     batch_duration = 60 # seconds
     batch_size = sr * batch_duration
     signals = signal_batch_maker(signal, batch_size, display=True)
@@ -293,7 +297,7 @@ def main_4():
 def main_5():
     music_name = "a-night-in-tunisia"
     
-    signal, sr = mp3_to_signal("data/audio/" + music_name + ".mp3", display=True)
+    signal, sr = audio_file_to_signal("data/audio/" + music_name + ".mp3", display=True)
     S = signal_to_spectro(signal, 2048, 512, display=True)
     spectro_to_image(S, "data/audio_output/" + music_name + ".png", display=True)
     mel_S = spectro_to_mel_spectro(S, sr, 128, display=True)
